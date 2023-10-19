@@ -32,3 +32,30 @@ p {
     text-align: center;
     font-family: 'Playfair Display';
 }
+
+.persona-name, .application-name {
+    font-weight: bold;
+    color: rgb(77, 77, 77)
+}
+
+.gallery {
+    text-align: center;
+}
+
+.main-image img {
+    width: 100%;
+    height: auto;
+}
+
+.thumbnail-images {
+    display: flex;
+    justify-content: center;
+}
+
+.thumbnail {
+    max-width: 100px;
+    height: auto;
+    margin: 5px;
+    cursor: pointer;
+    opacity: 50%;
+}
