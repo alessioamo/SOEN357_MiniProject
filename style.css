@@ -1,5 +1,6 @@
 body {
     font-family: 'Lora';
+    background-color: rgb(238, 238, 238);
 }
 
 .center-wrap {
@@ -66,4 +67,12 @@ img {
 
 .large-hover:hover{
     transform: scale(1.5);
+}
+
+
+
+.mockup-image {
+    display: inline;
+    width: 30%;
+    padding-right: 10px;
 }
