@@ -63,3 +63,7 @@ p {
 img {
     max-width: 100%;
 }
+
+.large-hover:hover{
+    transform: scale(1.5);
+}
